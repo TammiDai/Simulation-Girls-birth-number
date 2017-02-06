@@ -1,5 +1,5 @@
 # Simulation-Girls-birth-number
-# in this question, assume every family around the world will stop giving birth until they get their first girl, then what is the probability of girls' number?
+# in this question, assume every family around the world will stop giving birth until they get their first girl, then what is the #probability of girls' number?
 # below is a R funcion, simulate the probability according to input number of families n:
 
 families=function(n){
